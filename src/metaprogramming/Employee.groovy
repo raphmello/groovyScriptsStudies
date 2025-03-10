@@ -1,0 +1,4 @@
+package metaprogramming
+
+class Employee {
+}
