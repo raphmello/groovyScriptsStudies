@@ -1,0 +1,16 @@
+{
+    "books": {
+        "book": {
+            "title": "The title",
+            "isbn": "123-45-3-54",
+            "author": {
+                "first": "Rapha",
+                "last": "Mello"
+            },
+            "related": [
+                "Book 1",
+                "Book 2"
+            ]
+        }
+    }
+}
